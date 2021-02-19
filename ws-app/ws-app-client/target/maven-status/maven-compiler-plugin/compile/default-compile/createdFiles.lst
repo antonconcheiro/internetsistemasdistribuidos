@@ -1,0 +1,10 @@
+es/udc/ws/runfic/client/service/dto/ClientCarreraDto.class
+es/udc/ws/runfic/client/service/rest/RestClientCarreraService.class
+es/udc/ws/runfic/client/service/rest/json/JsonToClientInscripcionDtoConversor.class
+es/udc/ws/runfic/client/service/ClientCarreraService.class
+es/udc/ws/runfic/client/service/dto/ClientInscripcionDto.class
+es/udc/ws/runfic/client/service/exceptions/ClientDorsalEntregadoException.class
+es/udc/ws/runfic/client/ui/CarreraServiceClient.class
+es/udc/ws/runfic/client/service/rest/json/JsonToClientCarreraDtoConversor.class
+es/udc/ws/runfic/client/service/rest/json/JsonToClientExceptionConversor.class
+es/udc/ws/runfic/client/service/ClientCarreraServiceFactory.class

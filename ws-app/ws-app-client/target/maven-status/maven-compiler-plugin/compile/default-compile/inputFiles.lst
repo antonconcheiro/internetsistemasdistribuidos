@@ -1,0 +1,17 @@
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/exceptions/OutOfTimeException.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/thrift/ClientCarreraDtoToThriftCarreraDtoConversor.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/ClientCarreraService.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/ClientCarreraServiceFactory.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/exceptions/AlreadyRegisteredException.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/exceptions/ClientTarjetaNotEqualException.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/dto/ClientInscripcionDto.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/ui/CarreraServiceClient.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/exceptions/MaxCapacityException.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/rest/json/JsonToClientExceptionConversor.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/thrift/ClientInscripcionDtoToThriftInscrpcionDtoConversor.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/dto/ClientCarreraDto.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/rest/RestClientCarreraService.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/rest/json/JsonToClientInscripcionDtoConversor.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/exceptions/ClientDorsalEntregadoException.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/thrift/ThriftClientCarreraService.java
+/home/anton/software/ws-app/ws-app-client/src/main/java/es/udc/ws/runfic/client/service/rest/json/JsonToClientCarreraDtoConversor.java

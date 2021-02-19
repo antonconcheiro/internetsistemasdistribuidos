@@ -1,0 +1,13 @@
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/thriftservice/ThriftCarreraServiceImpl.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/json/JsonToRestInscripcionDtoConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/dto/RestInscripcionDto.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/dto/CarreraToRestCarreraDtoConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/dto/RestCarreraDto.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/servlets/CarreraServlet.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/json/JsonToExceptionConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/servlets/InscripcionServlet.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/thriftservice/CarreraToThriftCarreraDtoConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/thriftservice/InscripcionToThriftInscripcionDtoConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/thriftservice/ThriftCarreraServiceServlet.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/dto/InscripcionToRestInscripcionDtoConversor.java
+/home/anton/software/ws-app/ws-app-service/src/main/java/es/udc/ws/runfic/restservice/json/JsonToRestCarreraDtoConversor.java

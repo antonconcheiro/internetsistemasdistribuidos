@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.udc.ws.runfic.test.model.carreraservice.CarreraServiceTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.068 s - in es.udc.ws.runfic.test.model.carreraservice.CarreraServiceTest
